@@ -1,0 +1,4 @@
+spring.application.name: entry-level-java-challenge
+app.security.username: admin
+app.security.password: Admin123!
+app.security.role: ADMIN
